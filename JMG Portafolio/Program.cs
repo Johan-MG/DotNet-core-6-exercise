@@ -1,7 +1,15 @@
+using JMG_Portafolio.Models;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<MyDatabaseContext>(options =>
+{
+    options.UseNpgsql(builder.Configuration.GetConnectionString("PubContext"));
+});
 
 var app = builder.Build();
 

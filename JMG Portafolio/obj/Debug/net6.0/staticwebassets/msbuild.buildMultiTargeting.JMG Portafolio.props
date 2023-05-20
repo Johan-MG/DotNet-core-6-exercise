@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\JMG Portafolio.props" />
+</Project>

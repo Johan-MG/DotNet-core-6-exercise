@@ -1,0 +1,56 @@
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\appsettings.json
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\JMG Portafolio.staticwebassets.runtime.json
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\JMG Portafolio.exe
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\JMG Portafolio.deps.json
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\JMG Portafolio.runtimeconfig.json
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\JMG Portafolio.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\JMG Portafolio.pdb
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\Humanizer.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\Npgsql.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\obj\Debug\net6.0\JMG Portafolio.csproj.AssemblyReference.cache
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\obj\Debug\net6.0\JMG Portafolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\obj\Debug\net6.0\JMG Portafolio.AssemblyInfoInputs.cache
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\obj\Debug\net6.0\JMG Portafolio.AssemblyInfo.cs
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\obj\Debug\net6.0\JMG Portafolio.csproj.CoreCompileInputs.cache
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\obj\Debug\net6.0\JMG Portafolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\obj\Debug\net6.0\JMG Portafolio.RazorAssemblyInfo.cache
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\obj\Debug\net6.0\JMG Portafolio.RazorAssemblyInfo.cs
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\obj\Debug\net6.0\staticwebassets\msbuild.JMG Portafolio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\obj\Debug\net6.0\staticwebassets\msbuild.build.JMG Portafolio.props
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.JMG Portafolio.props
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.JMG Portafolio.props
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\obj\Debug\net6.0\scopedcss\bundle\JMG Portafolio.styles.css
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\obj\Debug\net6.0\scopedcss\projectbundle\JMG Portafolio.bundle.scp.css
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\obj\Debug\net6.0\JMG Portafolio.csproj.CopyComplete
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\obj\Debug\net6.0\JMG Portafolio.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\obj\Debug\net6.0\refint\JMG Portafolio.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\obj\Debug\net6.0\JMG Portafolio.pdb
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\obj\Debug\net6.0\JMG Portafolio.genruntimeconfig.cache
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\obj\Debug\net6.0\ref\JMG Portafolio.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\jmorales\Documents\Mis repos\JMG Portafolio\JMG Portafolio\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
